@@ -2,6 +2,8 @@
 
 Configuring Winston with a server with File and MongoDB transports
 
+Run `npm i`
+
 Run `node app.js` to start the server and access the following URLs to trigger server responses and requests.
 
 `http://localhost:3000/`
